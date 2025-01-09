@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/746adaab-ca47-4d3c-b24c-c1fdf3eba25a)
 
-## Funcionalidades Principais ⚙️
+## Funcionalidades Principais ⚙️ 
 
 ### 1. Exibição dos Dados dos Usuários
 A aplicação permite visualizar os dados de cada usuário, incluindo:
