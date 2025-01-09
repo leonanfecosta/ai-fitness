@@ -43,25 +43,6 @@ A IA será responsável por:
 - Chamar a função adequada para executar a ação necessária.
 - Comunicar-se com o usuário através de mensagens claras e úteis.
 
-## Implementando o "If Mágico" ✨
-Para criar o "If Mágico", seguiremos os seguintes passos:
-
-1. **Preparar os Dados do Usuário**:
-   - Coletar todos os dados relevantes do usuário.
-   - Estruturar os dados de forma que a IA possa interpretá-los.
-
-2. **Definir o Prompt para a IA**:
-   - Criar um prompt que oriente a IA sobre o que fazer.
-   - Incluir instruções sobre como utilizar as funções disponíveis.
-
-3. **Configurar as Funções para a IA**:
-   - Informar à IA quais funções estão disponíveis para chamada.
-   - Garantir que as funções estejam devidamente tipadas e documentadas.
-
-4. **Chamar a IA e Processar a Resposta**:
-   - Enviar os dados e o prompt para a IA.
-   - Receber a decisão da IA sobre qual função chamar.
-   - Executar a função escolhida e retornar o resultado.
 
 ## Considerações Importantes 📝
 - **Tipagem das Funções**: Certifique-se de que todas as funções têm parâmetros e retornos bem definidos e tipados, para que a IA possa utilizá-las corretamente.
